@@ -1,5 +1,5 @@
 import React from 'react'
-import Input from './input'
+import Input from './InputField'
 import RadioInput from './RadioInput'
 import { useNavigate } from 'react-router-dom'
 
