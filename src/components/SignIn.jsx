@@ -3,7 +3,7 @@ import Input from './input'
 import { useNavigate } from 'react-router-dom'
 
 
-export default function Signup() {
+export default function Signin() {
   const navigate=useNavigate()
   return (
     <div className='flex items-center justify-center h-screen'>

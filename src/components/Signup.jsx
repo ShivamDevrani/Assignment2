@@ -1,11 +1,9 @@
-
-
 import React from 'react'
 import Input from './input'
 import RadioInput from './RadioInput'
 import { useNavigate } from 'react-router-dom'
 
-export default function SignIn() {
+export default function Signup() {
   const navigate=useNavigate();
   return (
     <div className='flex items-center justify-center h-screen'>
